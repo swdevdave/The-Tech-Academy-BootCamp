@@ -1,16 +1,8 @@
-// Get the pizza size price and add it to the running Total
-// then pass that running total to the next function so 
-// the next function will add a particular total to the running total and so on...
-//
-// Keep doing this until you get all items added to the running total.
-//
-// Just remember that the syntax will be text1 = text1 + something + "<br>";
-// So you take the orginal value and concetenate to something new and end it with
-// an HTML line break so our code will write the next thing one line below instead
-// of overwriting the previous print out.
+//This takes the pizza selection creates a value based on size, then adds to the running total based on "selectedSize" then carries the info down to the next function//
+
 function getReceipt() {
-	text1 = ""; // These initialize as empty strings but get passed from  
-	text2 = ""; // function to function, growing line by line into a full receipt
+	text1 = "";  
+	text2 = ""; 
 	var runningTotal = 0;
 	var sizeTotal = 0;
 	var sizeArray = document.getElementsByClassName("size");
@@ -34,33 +26,30 @@ function getReceipt() {
 		text2 = text2+sizeTotal+"<br>";
 	}
 	runningTotal = sizeTotal;
-	getMeat(runningTotal,text1,text2); // All three of these variables will be passed on to each function
+	getMeat(runningTotal,text1,text2);
 };	
 
-// With both the meat and veggie functions each item in the array will be
-// 1 dollar but the first is going to be free so we can count the total
-// of items in their array and subtract 1 to get the total item cost
-//
-// Now we can add the item cost to our running total to get the new
-// running total and then pass this new running total to the next function
-// Just keep up this process until we've added all items to the running total
+
+// MEAT FUNCTION//
+// The takes the meat total and charges $1 per meat choosen, however subtracts 1 from the value giving you the 1st meat free. Adds the "runningTotal" and the meats choosen.//
+
 function getMeat(runningTotal,text1,text2) {
 	var runningTotal = runningTotal;
 	var meatTotal = 0;
 	var selectedMeat = [];
 	var meatArray = document.getElementsByClassName("meats");
-	for (var j = 0; j < meatArray.length; j++) {
-		if (meatArray[j].checked) {
+	for (var j = 0; j < meatArray.length; j++) { 
+		if (meatArray[j].checked) {                   // If the meat is selected output the meat value//
 			selectedMeat.push(meatArray[j].value);
 		}
 	}
-	var meatCount = selectedMeat.length;
+	var meatCount = selectedMeat.length; // Value based on how many are chosen //
 	if (meatCount > 1) {
-		meatTotal = (meatCount - 1);
+		meatTotal = (meatCount - 1); // here is the free topping //
 	} else {
-		meatTotal = 0;
+		meatTotal = 0; 
 	}
-	runningTotal = (runningTotal + meatTotal);
+	runningTotal = (runningTotal + meatTotal); // Function for adding pizza and meat toppings to running total Var//
 	for (var j = 0; j < selectedMeat.length; j++) {
 			text1 = text1+selectedMeat[j]+"<br>";
 			if (meatCount <= 1) {
@@ -71,11 +60,14 @@ function getMeat(runningTotal,text1,text2) {
 				meatCount = meatCount - 1;
 			} else {
 				text2 = text2 + 1 + "<br>";
-				meatCount = meatCount - 1;
+				meatCount = meatCount - 1; 
 			}
 	}
 	getVeggie(runningTotal,text1,text2);
 };
+
+//VEGGIES- //
+// Same as meat function just with veggies//
 
 function getVeggie(runningTotal,text1,text2) {
 	var veggieTotal = 0;
@@ -109,6 +101,9 @@ function getVeggie(runningTotal,text1,text2) {
 	getCheese(runningTotal,text1,text2);
 };
 
+//Cheese function//
+
+
 function getCheese(runningTotal,text1,text2) {
 	var cheeseTotal = 0;
 	var selectedCheese = [];
@@ -126,6 +121,8 @@ function getCheese(runningTotal,text1,text2) {
 	runningTotal = (runningTotal + cheeseTotal);
 	getSauce(runningTotal,text1,text2);
 };
+
+//Sauce Function//
 
 function getSauce(runningTotal,text1,text2) {
 	var sauceArray = document.getElementsByClassName("sauce");
@@ -152,17 +149,22 @@ function getCrust(runningTotal,text1,text2) {
 			crustTotal = 3;
 		}
 	}
-	runningTotal = (runningTotal + crustTotal);
+    runningTotal = (runningTotal + crustTotal); 
 	text2 = text2 + crustTotal + "<br>";
+    // Now its grabbing the data from our text1, text2 and Running total and displaying the output into our form on the HTML page//
 	document.getElementById("cart").style.opacity=1;
 	document.getElementById("showText1").innerHTML=text1;
 	document.getElementById("showText2").innerHTML=text2;
-	document.getElementById("totalPrice2").innerHTML = "</h3>$"+runningTotal+".00"+"</h3>";
+	document.getElementById("totalPrice2").innerHTML = "</h3>$"+runningTotal+".00"+"</h3>"; // Showing total dollars //
 };
 
-// This code clears the form selections to their defaults and then sets the 
-// corresponding div's CSS opacity to 0, effectively hiding it from view.
+//RESET FORM//
+
 function clearAll() {
 	document.getElementById("frmMenu").reset();
 	document.getElementById("cart").style.opacity=0;
 };
+
+
+
+
