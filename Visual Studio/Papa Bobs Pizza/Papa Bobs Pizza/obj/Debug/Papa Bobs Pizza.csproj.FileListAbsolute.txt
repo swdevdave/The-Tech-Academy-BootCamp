@@ -1,0 +1,34 @@
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\csc.exe
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\csc.exe.config
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\csc.rsp
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\csi.exe
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\csi.rsp
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\System.AppContext.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\System.IO.FileSystem.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\vbc.exe
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\vbc.exe.config
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\vbc.rsp
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\VBCSCompiler.exe
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\Papa Bobs Pizza.dll.config
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\Papa Bobs Pizza.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\Papa Bobs Pizza.pdb
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\obj\Debug\Papa Bobs Pizza.dll
+c:\users\dave-laptop\documents\visual studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\obj\Debug\Papa Bobs Pizza.pdb
+C:\Users\Dave-Laptop\Documents\Visual Studio 2017\Projects\Papa Bobs Pizza\Papa Bobs Pizza\obj\Debug\Papa Bobs Pizza.csprojResolveAssemblyReference.cache
