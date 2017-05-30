@@ -9,10 +9,18 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Working with DateTime<br />
+            Compare Dates<br />
             <br />
             <br />
-            <asp:Button ID="okButton" runat="server" OnClick="okButton_Click" Text="ok" />
+            <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
+            <br />
+            <asp:Calendar ID="Calendar2" runat="server"></asp:Calendar>
+            <br />
+            <br />
+            <asp:Button ID="okButton" runat="server" OnClick="okButton_Click" Text="OK" />
+            <br />
+            <br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <br />
             <br />
             <asp:Label ID="resultLabel" runat="server"></asp:Label>
