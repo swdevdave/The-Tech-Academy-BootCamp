@@ -32,3 +32,37 @@ c:\users\dave main\Desktop\Visual Studio 2017\Projects\MegaSlotChallenge\MegaSlo
 c:\users\dave main\Desktop\Visual Studio 2017\Projects\MegaSlotChallenge\MegaSlotChallenge\obj\Debug\MegaSlotChallenge.csprojResolveAssemblyReference.cache
 c:\users\dave main\Desktop\Visual Studio 2017\Projects\MegaSlotChallenge\MegaSlotChallenge\obj\Debug\MegaSlotChallenge.dll
 c:\users\dave main\Desktop\Visual Studio 2017\Projects\MegaSlotChallenge\MegaSlotChallenge\obj\Debug\MegaSlotChallenge.pdb
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\csc.exe
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\csc.exe.config
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\csc.rsp
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\csi.exe
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\csi.rsp
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\System.AppContext.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\vbc.exe
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\vbc.exe.config
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\vbc.rsp
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\MegaSlotChallenge.dll.config
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\MegaSlotChallenge.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\MegaSlotChallenge.pdb
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\obj\Debug\MegaSlotChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\obj\Debug\MegaSlotChallenge.dll
+C:\Users\Dave Main\Desktop\TheTechAcademy\Visual Studio\MegaSlotChallenge\MegaSlotChallenge\obj\Debug\MegaSlotChallenge.pdb

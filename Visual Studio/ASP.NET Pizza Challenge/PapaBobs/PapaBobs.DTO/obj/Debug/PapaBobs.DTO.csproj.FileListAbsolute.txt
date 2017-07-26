@@ -1,0 +1,10 @@
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.dll
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.pdb
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.csprojResolveAssemblyReference.cache
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.dll
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.pdb
+C:\Users\Dave Main\Desktop\Study Files\CSASP_070MegaSolutionPart10Code-1463053858909\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.dll
+C:\Users\Dave Main\Desktop\Study Files\CSASP_070MegaSolutionPart10Code-1463053858909\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\Dave Main\Desktop\Study Files\CSASP_070MegaSolutionPart10Code-1463053858909\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Dave Main\Desktop\Study Files\CSASP_070MegaSolutionPart10Code-1463053858909\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.dll
+C:\Users\Dave Main\Desktop\Study Files\CSASP_070MegaSolutionPart10Code-1463053858909\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.pdb
