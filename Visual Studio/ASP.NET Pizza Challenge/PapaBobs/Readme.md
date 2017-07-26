@@ -10,7 +10,7 @@ the values for the db location. The DB is located in .WEB/App_Data folder. Go in
 
 Default is the main page. And in order to see the values use /ordermanagement.aspx 
 
-The key things I learned with this project were using a Db with C#, connecting up an ADO.NET entity model, and setting up a +
+The key things I learned with this project were using a Db with C#, connecting up an ADO.NET entity model, and setting up a
 solid file structure  while passing the values throughout the project. 
 
 
