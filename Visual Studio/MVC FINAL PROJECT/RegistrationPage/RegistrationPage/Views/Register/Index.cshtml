@@ -1,0 +1,66 @@
+﻿@model RegistrationPage.Models.User
+@{
+    ViewBag.Title = "Index";
+}
+
+  
+    <div>
+        <p><br /></p>
+        <h2>Registration Page</h2>
+        <p><br/></p>
+    </div>
+@using (Html.BeginForm("Register", "Register", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class=" form-group">
+        @Html.Label("Create a User Name", null, new { @class = "control-label col-md-2" })
+        @Html.TextBoxFor(model => model.UserName, null, new { @class = "form-control" })
+    </div>
+
+    <div class=" form-group">
+        @Html.Label("Set Password", null, new { @class = "control-label col-md-2" })
+        @Html.TextBoxFor(model => model.Password, null, new { @class = "form-control" })
+    </div>
+
+    <div class=" form-group">
+        @Html.Label("First Name", null, new { @class = "control-label col-md-2" })
+        @Html.TextBoxFor(model => model.FirstName, null, new { @class = "form-control" })
+    </div>
+
+    <div class=" form-group">
+        @Html.Label("Last Name", null, new { @class = "control-label col-md-2" })
+        @Html.TextBoxFor(model => model.LastName, null, new { @class = "form-control" })
+    </div>
+
+    <div class=" form-group">
+        @Html.Label("About Me:", null, new { @class = "control-label col-md-2" })
+        @Html.TextAreaFor(model => model.About, new { @class = "form-control" })
+    </div>
+
+    <div class=" form-group">
+        @Html.Label("Gender", null, new { @class = "control-label col-md-2" })
+        @Html.DropDownListFor(model => model.Gender, new SelectList(new List<string>() { "Male", "Female" }), "Select Gender", new { @class = "form-control" })
+    </div>
+
+    <div class=" form-group">
+        @Html.Label("Personal Intrests", null, new { @class = "control-label col-md-2" })
+        @Html.ListBoxFor(model => model.Interests, (MultiSelectList)ViewBag.intrest, new { multiple = "multiple" })
+    </div>
+
+    <div class=" form-group">
+        @Html.Label("Remember", null, new { @class = "control-label col-md-2" })
+        @Html.CheckBoxFor(model => model.RememberMe)
+    </div>
+
+    <div>
+        <input type="submit" value="Register" class="btn btn-primary " />
+
+        <input type = "button" style="float: right"  value="User Login" class="btn btn-danger" onclick="location.href='@Url.Action("Index", "Login")' " />
+    </div>
+
+
+
+
+
+}
