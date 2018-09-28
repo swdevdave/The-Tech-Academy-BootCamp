@@ -1,6 +1,6 @@
 # The Tech Academy
 
-26 weeks at 40hrs/ week
+26 weeks at 40hrs/ week  
 https://www.learncodinganywhere.com/
 
 ## Included
