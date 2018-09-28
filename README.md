@@ -1,6 +1,7 @@
-# The Tech Academy
+# The Tech Academy (Coding Boot Camp)
+Jan 2017 - August 2017
 
-26 weeks at 40hrs/ week  
+To complete the average student needs to do 26 weeks at 40hrs/ week.    
   
 https://www.learncodinganywhere.com/
 
