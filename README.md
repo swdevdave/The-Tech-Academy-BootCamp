@@ -16,8 +16,5 @@ https://www.learncodinganywhere.com/
 - Python Course
 - C# and .NET Framework Course
 - Project Management Course
-- A 2-week Live Project focusing on front-end development
-- 2-week Live Project focusing on back-end development
-- 2-week Live Project focused on Python
 - 2-week Live Project focused on C# and the .NET Framework
 
